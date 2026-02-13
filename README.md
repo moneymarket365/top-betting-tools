@@ -14,13 +14,13 @@ top-betting-tools is a handpicked collection of the best betting tools, platform
   - `kyc` : Not Required
   - `welcome bonus` Yes (20 Ton as airdrop and up to 150% deposite Bonus):
   - `accept crypto` Yes (Ton):
-  - `platforms` : Telegram (Web, Desktop, Android and iOS)
+  - `platforms` : Telegram mini app (Web, Desktop, Android and iOS)
   - `customer support` 24/7 on Telegram:
   - `Instant Payouts` : Yes (Immediately)
  
 - **[Polymarket.com](https://Polymarket.com)**  
   The world’s largest decentralized prediction market
-  - `score` : 9.8/10
+  - `score` : 10/10
   - `prons` : High liquidity, massive range of event markets, ultra-low fees, and non-custodial security.
   - `cons` : No parlay betting, market resolutions can be delayed by oracle disputes, and geo-restricted in certain regions (e.g., UK).
   - `limits` : No fixed maximum bet; limits are defined by the available liquidity in the specific order book.
